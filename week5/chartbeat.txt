@@ -1,0 +1,12 @@
+Charbeat's homepage does a great job of telling their audience exactly what their service can
+do for you. The information is organized in a non-traditional way, but it is functional. Each
+section is informative and eye catching. It is very easy for the user to move from section to
+section. As a user that did not know what the website was about, I had a much better understanding
+after I was done reading through the homepage.
+
+The only downside I see to this that if you aren't a front end web developer, you can easily
+get confused as to what the website is about. At first, I really had no clue what this site
+was offering me. In my opinion, I feel like there should be some type of introduction or 
+biography that tells you what the website is for. Although if you look at the other side of
+it, people who aren't web developers will probably not be the target audience that visits
+this web site.
