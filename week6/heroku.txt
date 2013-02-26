@@ -1,0 +1,14 @@
+The first thing I noticed when I was taken to the Heroku homepage was how visually appealing it was.
+The homepage is very well organized. What I also like about it is how it is accompanied so well with
+images and icons. It was very well stated on the top of the page what Heroku is and what it can do for
+you. This makes it very user friendly and can be read by a wide range in audiences. I also enjoy how the
+navigation bar is set up. It’s right at the top so it is easy to see. It also has the links named simply so that
+you can get to exactly where you want to go on the website.
+
+What I didn’t like about the website were the color choices. I love the dark tones the website has, but to
+me the text seemed to get lost because of the lack in contrast, most specifically near the bottom and the
+footer of the website. I noticed that they have a feature for when you hover over the link (for example,
+“We’re hiring, critical production apps, Heroku Partners, and Register for Waza 2013) the icon and text
+brighten up, but to me it should be easy to see in the first place. I also noticed that the only responsive
+text is the bit with the telephone number, which I found odd. Overall, the information layout and design
+work well, but the colors and readability could be improved.
