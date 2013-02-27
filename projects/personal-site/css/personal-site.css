@@ -8,7 +8,7 @@ navy: #032F40
 
 
 body {
-	background-image: url(low_contrast_linen/low_contrast_linen.png);
+	background-image: url(../low_contrast_linen/low_contrast_linen_@2X.png);
 	font-family: "Trebuchet MS", sans-serif;
 }
 
