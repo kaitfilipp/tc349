@@ -12,3 +12,7 @@ footer of the website. I noticed that they have a feature for when you hover ove
 brighten up, but to me it should be easy to see in the first place. I also noticed that the only responsive
 text is the bit with the telephone number, which I found odd. Overall, the information layout and design
 work well, but the colors and readability could be improved.
+
+For my website redesign, I chose a gallery layout. This layout best works for my site because it lets me
+show off my design work and photography work in a cleaner setting. Since the content was already
+in sort of a gallery format, I chose to try to improve it by using the correct formatting.
