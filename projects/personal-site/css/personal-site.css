@@ -86,12 +86,13 @@ img.photo {
 
 
 .container {
-	margin: 0 auto;
+	margin-left: 10%;
+	margin-right: 10%;
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
 article {
-	width: 190px;
+	width: 185px;
 	padding: 10px;
 	margin: 10px;
 	float: left;
@@ -108,4 +109,8 @@ footer {
 	clear: both;
 	text-align: center;
 	color: #EDEDE8;
+}
+
+#intro {
+	color: #032F40;
 }
